@@ -1,7 +1,7 @@
 
 # My Tasks
 
-My Tasks is a simple web application for daily tasks built with React JS.
+My Tasks is a simple web application for daily tasks built using React JS.
 
 
 ## Tech Stack
