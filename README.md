@@ -18,7 +18,7 @@ React JS, Material UI, Material Icons, UUID
 - Responsive with all screen sizes
 
 
-## Project Link
+## App Link
 
 https://mytasks-moehurmoz-project.netlify.app
 
