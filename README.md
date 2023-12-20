@@ -6,7 +6,7 @@ My Tasks is a simple web application for daily tasks built using React JS.
 
 ## Tech Stack
 
-React JS, Material UI, Material Icons, UUID
+React JS, Material UI, UUID
 
 
 ## Features
@@ -15,10 +15,10 @@ React JS, Material UI, Material Icons, UUID
 - Possibility of adding details to the task
 - Possibility of editing or deleting the task
 - Possibility of deleting all tasks with one button
-- Responsive with all screen sizes
+- Responsive to all phone and computer screen sizes
 
 
-## App Link
+## Live Server
 
 https://mytasks-moehurmoz-project.netlify.app
 
