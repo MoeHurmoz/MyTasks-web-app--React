@@ -1,28 +1,29 @@
+# To-Do Application
 
-# My Tasks
+## Overview
 
-My Tasks is a simple web application for daily tasks built using React JS.
-
+To-Do is a simple web application for managing daily tasks, built using React JS. The application helps users keep track of their tasks by organizing them into different sections and providing functionalities to add, edit, and delete tasks.
 
 ## Tech Stack
 
-React JS, Material UI, UUID
-
+- **HTML**
+- **CSS**
+- **Material UI**
+- **React JS**
+- **UUID**
 
 ## Features
 
-- Tasks are presented in three sections: (All, Uncompleted Tasks, Completed Tasks)
-- Possibility of adding details to the task
-- Possibility of editing or deleting the task
-- Possibility of deleting all tasks with one button
-- Responsive to all phone and computer screen sizes
+- **Task Organization**: Tasks are presented in three sections: All, Uncompleted Tasks, Completed Tasks.
+- **Task Details**: Possibility of adding details to the task.
+- **Edit and Delete Tasks**: Possibility of editing or deleting individual tasks.
+- **Delete All Tasks**: Possibility of deleting all tasks with one button.
+- **Responsive Design**: Responsive to all phone and computer screen sizes.
 
+## Live Demo Server
 
-## Live Server
-
-https://mytasks-moehurmoz-project.netlify.app
-
+You can preview the application at the following link: [Live Demo Server](https://mytasks-moehurmoz-project.netlify.app)
 
 ## Hint
 
-The application is in Arabic, the English language will be added in the next version.
+The application is in Arabic. The English language will be added in the next version.
